@@ -1,2 +1,2 @@
-# Quora_suggestions_similar_questions
+# QuoraSuggestionsSimilarQuestions
 Implementation of a system of hints for similar questions (Quora)
